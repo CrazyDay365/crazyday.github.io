@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Happy holiday</title>
+        <style>
+        header, footer {display:green; clear:both; padding:5px: text-align:center}
+        nav {display:green; float:left; width:20%; height:50%; background:rgb(191, 255, 0); padding:5px}
+        article {display:yellow; float:right; width: 78%; height:50%; background:pink; padding:5px}
+        </style>
+    </head>
+    <body>
+         <header>
+            <h1><text-align="center" style="color:red"><i>Happy Travelling</i></h1>
+        </header>
+         <nav>
+             <ul>
+                <li><a href="file:///C:/Users/85251/Desktop/408315031%20W4HW.html">Introduction</a></li>
+                <li><a href="https://www.japan.travel/tw/tw/">Travelling</a></li>
+                <li><a href="file:///C:/Users/85251/Desktop/Untitled-2.html">feeling</a></li>
+            </ul>
+        </nav>
+        <article>
+            <p>JAPAN is a wonderful country. I like travelling JAPAN. </p>
+        </article>
+        <footer>
+            <p><small>Published by Lam Lam </small></p>    
+        </footer>    
+    </body>
+</html>
