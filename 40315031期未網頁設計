@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title><h1 style="font-family:verdana;background-color:pink;">抒情歌曲推薦</h1></title>
+        <style>
+        body{color:write; background:burlywood }
+        header, footer {display:green; clear:both; padding:5px: text-align:center}
+        nav {display:green; float:left; width:20%; height:70%; background:rgb(191, 255, 0); padding:5px}
+        article {display:yellow; float:right; width: 78%; height:70%; background:pink; padding:5px}
+        </style>
+    </head>
+    <body>
+         <header>
+            <h1><text-align="center" style="color:red"><i>抒情歌曲推薦</i></h1>
+        </header>
+         <nav>
+            <hgroup>
+                <h1>歌曲目錄表</h1>
+            </hgroup>
+             <ul>
+                <li><a href="file:///C:/Users/85251/Desktop/%E5%8F%B0%E8%AA%9E%E6%AD%8C%E6%8E%A8%E8%96%A6.html">台語</a></li>
+                <li><a href="file:///C:/Users/85251/Desktop/%E5%9C%8B%E8%AA%9E%E6%AD%8C%E6%8E%A8%E8%96%A6.html">國語</a></li>
+                <li><a href="file:///C:/Users/85251/Desktop/%E7%B2%B5%E8%AA%9E%E6%AD%8C%E6%8E%A8%E8%96%A6.html">粵語</a></li>
+                <li><a href="file:///C:/Users/85251/Desktop/%E6%97%A5%E8%AA%9E%E6%AD%8C%E6%8E%A8%E8%96%A6.html">日語</a></li>
+                <li><a href="file:///C:/Users/85251/Desktop/%E8%8B%B1%E6%96%87%E6%AD%8C%E6%8E%A8%E8%96%A6.html">英語</a></li>
+            </ul>
+            <a href="file:///C:/Users/85251/Desktop/%E7%B6%B2%E9%A0%81%E8%87%AA%E5%8B%95%E5%B0%8E%E5%90%91%E5%88%B0%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92%E5%94%B1%E6%AD%8C.html";p style="font-size:120%;">自我學習唱歌</a>
+        </nav>
+        <article>
+            <hgroup>
+                <h1>認識歌曲與當地文化</h1>
+            </hgroup>
+            <p>歌曲可以讓我們陶冶性情。而且古人非常注重音樂對人心的影響，主張音樂有益於人的教化，而不是為了刺激感官。古代人視“陶冶性情”或“寓教於樂”的進行道德教化為音樂的主要功用。
+                除了讓我們陶冶性情，也可以認識當地語言。久了之後，可以完完全全掌握其他語言。</p>
+            </div>
+            <div  class="carousel slide" data-ride="carousel" id=photoCarousel>
+          
+              <div class="carousel-inner">
+                <div class="item active"><img src ="陶冶性情.jpg" height="250" width="420" border="10"></div>
+              </div>
+        </article>
+        <footer>
+            <p><small>Published by Lam Lam </small></p>    
+        </footer>    
+    </body>
+</html>
